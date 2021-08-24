@@ -7,5 +7,5 @@
 * 🧑‍💻 Analista de Sistemas 
 * 👨‍🎓 Graduando em Sistemas de Informações - Unifeob
 * 👨‍🎓 Pós Graduação em Redes de Computadores e Segurança - Uniciv 
-* 👨‍🎓 Cursando Técnico de Desenvolvimento de Sistemas - If Sul de Minas 
+* 👨‍🎓 Técnico de Desenvolvimento de Sistemas - If Sul de Minas 
 ***
