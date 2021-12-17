@@ -6,7 +6,7 @@
 ***
 ### Analista de Sistemas, gosto de experimentar novas práticas e tecnologias. 
 * ☕ Hoje trabalho como Desenvolvedor Java.
-* 👨‍🎓 Graduando em Sistemas de Informações - Unifeob.
-* 👨‍🎓 Pós Graduação em Redes de Computadores e Segurança - Uniciv. 
+* 👨‍🎓 Graduado em Sistemas de Informações - Unifeob.
+* 👨‍🎓 Pós Graduado em Redes de Computadores e Segurança - Uniciv. 
 * 👨‍🎓 Técnico em Desenvolvimento de Sistemas - If Sul de Minas. 
 ***
