@@ -5,7 +5,7 @@
 [![Docker Hub](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)](https://hub.docker.com/u/lucianoromero)
 ***
 ### Nerd por natureza, Analista de Sistemas por vocação, gosto de experimentar novas práticas e tecnologias. 
-* ☕ Hoje trabalho como Desenvolvedor Backend.
+* ☕  Desenvolvedor Backend Java | Spring Boot | Spring REST | Microsserviços
 * 👨‍🎓 Graduado em Sistemas de Informações - Unifeob.
 * 👨‍🎓 Pós Graduado em Redes de Computadores e Segurança - Uniciv. 
 * 👨‍🎓 Técnico em Desenvolvimento de Sistemas - If Sul de Minas. 
